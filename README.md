@@ -29,4 +29,4 @@
 <code>python3 PodpiskaTG.py</code><br>
 <br>
 <br>
-<br><b>Если хотите оформить подписки с другого аккаунта пишите rm session_name.session</b>
+<br><b>Если хотите оформить подписки с другого аккаунта пишите <code>rm session_name.session</code></b>
